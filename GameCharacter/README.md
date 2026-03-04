@@ -37,7 +37,8 @@ IAttacker와 IDefender를 모두 구현하는 몬스터:
 
 **5. 전투 함수 구현**
 
-`void ProcessBattle(IAttacker attacker, IDefender defender)` 함수를 구현하여 전투를 처리:
+`void ProcessBattle(IAttacker attacker, IDefender defender)` 함수를 구현하여
+전투를 처리:
 
 - IAttacker가 IDefender에게 공격
 
